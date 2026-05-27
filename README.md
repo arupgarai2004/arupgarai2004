@@ -8,6 +8,7 @@ Most of my experience is in frontend development, especially with Angular, TypeS
 * Angular
 * TypeScript & JavaScript
 * Node.js
+* Python
 * Nest.js
 * Spring Boot
 * HTML, CSS
